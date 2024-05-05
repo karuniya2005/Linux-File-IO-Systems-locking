@@ -78,9 +78,11 @@ return 0;
 
 ## OUTPUT
 C program that illustrates files copying
+
 ![Screenshot 2024-05-05 214539](https://github.com/karuniya2005/Linux-File-IO-Systems-locking/assets/161425769/6f225ec7-9bc4-403e-a5ec-448e1c6de877)
 
 C program that illustrates files locking
+
 ![Screenshot 2024-05-05 214553](https://github.com/karuniya2005/Linux-File-IO-Systems-locking/assets/161425769/45e626f6-144a-4a23-8a20-c47245e99a45)
 
 
